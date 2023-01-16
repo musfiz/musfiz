@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=musfiz.visitor-badge)![](https://hit.yhype.me/github/profile?user_id=2957624)
 
-I'm Mustafiz, Currently working as a fullstack Software Engineer. Love to learn new technologies all time. If you have any query please feel free to contact.!!
+I'm Mustafiz, Currently working as a Full Stack Developer. Love to learn new technologies all time. If you have any query please feel free to contact.!!
 
 [![Medium Badge](https://img.shields.io/badge/musfiz-12100E?style=flat&logo=medium&logoColor=white&link=https://medium.com/@musfiz)](https://medium.com/@musfiz)
 [![Linkedin Badge](https://img.shields.io/badge/-musfiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musfiz/)](https://www.linkedin.com/in/musfiz/)
