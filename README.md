@@ -1,4 +1,4 @@
-## Heyyy! <img src="https://raw.githubusercontent.com/mustafiz/mustafiz/main/wave.gif" width="30">
+## Heyyy! <img src="https://raw.githubusercontent.com/musfiz/musfiz/main/wave.gif" width="30">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=musfiz.visitor-badge)![](https://hit.yhype.me/github/profile?user_id=2957624)
 
