@@ -8,7 +8,7 @@ I'm Mustafiz, Currently working as a Full Stack Developer. Love to learn new tec
 [![Linkedin Badge](https://img.shields.io/badge/-musfiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musfiz/)](https://www.linkedin.com/in/musfiz/)
 [![Twitter Badge](https://img.shields.io/badge/-musfiz-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/musfiz/)](https://twitter.com/musfiz)
 [![Instagram Badge](https://img.shields.io/badge/-musfiz-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/musfiz/)](https://instagram.com/musfiz)
-[![Gmail Badge](https://img.shields.io/badge/-mustafiz,info13@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:mustafiz.info13@gmail.com)](mailto:mustafiz.info13@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mustafiz.info13@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:mustafiz.info13@gmail.com)](mailto:mustafiz.info13@gmail.com)
 [![Skype Badge](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/wh6fNAm3zw09)
 
 
