@@ -16,9 +16,9 @@ I'm Mustafiz, Currently working as a Full Stack Developer. Love to learn new tec
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)
+![VueJS](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82)
-![React](https://img.shields.io/badge/-React-323330?style=flat&logo=react&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-149ECA?style=flat&logo=React&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-C3002F?style=flat&logo=angular&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
