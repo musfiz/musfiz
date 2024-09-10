@@ -35,3 +35,21 @@ I'm Mustafiz, Currently working as a Full Stack Developer. Love to learn new tec
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
+
+
+
+<p align="center">
+    <a href="https://github.com/musfiz#gh-light-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=musfiz&count_private=true&show_icons=true&include_all_commits=true&custom_title=musfiz%27s%20github%20stats&hide_border=true&line_height=28&theme=graywhite" align = "center"/>
+    </a>
+    <a href="https://github.com/musfiz#gh-light-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiz&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align = "center"/>
+    </a>
+    <a href="https://github.com/musfiz#gh-dark-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=musfiz&count_private=true&show_icons=true&include_all_commits=true&custom_title=musfiz%27s%20github%20stats&hide_border=true&line_height=28&theme=dark" align = "center"/>
+    </a>
+    <a href="https://github.com/musfiz#gh-dark-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiz&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align = "center"/>
+    </a>
+
+</p>
