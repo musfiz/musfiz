@@ -51,5 +51,13 @@ I'm Mustafiz, Currently working as a Full Stack Developer. Love to learn new tec
     <a href="https://github.com/musfiz#gh-dark-mode-only">
         <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiz&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align = "center"/>
     </a>
+</p>
 
+<p align="center">
+    <a href="https://github.com/musfiz#gh-light-mode-only">
+        <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiz&theme=default" alt="musfiz" />
+    </a>
+    <a href="https://github.com/musfiz#gh-dark-mode-only">
+        <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiz&theme=dark" alt="musfiz" />
+    </a>
 </p>
