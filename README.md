@@ -2,7 +2,11 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=musfiz.visitor-badge)![](https://hit.yhype.me/github/profile?user_id=2957624)
 
-I'm Mustafiz, Currently working as a Full Stack Developer. Love to learn new technologies all time. If you have any query please feel free to contact.!!
+I am a passionate Full Stack Developer with a knack for building robust and user-centric web applications from the ground up. My expertise spans the entire development lifecycle, from designing intuitive front-end interfaces with modern frameworks like React, Angualar, Vue.js to engineering powerful back-end systems with Node.js, PHP (Laravel), and PostgreSQL.
+
+I thrive on transforming complex problems into efficient, scalable, and maintainable code. Whether I'm optimizing database queries, designing a RESTful API, or ensuring a pixel-perfect UI, my focus is always on delivering a seamless and engaging user experience that aligns with business goals.
+
+When I'm not coding, I'm exploring new technologies, contributing to open-source projects, or writing about my development journey.!!
 
 [![Medium Badge](https://img.shields.io/badge/musfiz-12100E?style=flat&logo=medium&logoColor=white&link=https://medium.com/@musfiz)](https://medium.com/@musfiz)
 [![Linkedin Badge](https://img.shields.io/badge/-musfiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musfiz/)](https://www.linkedin.com/in/musfiz/)
