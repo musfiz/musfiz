@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=musfiz.visitor-badge)![](https://hit.yhype.me/github/profile?user_id=2957624)
 
-I am a passionate Full Stack Developer with a knack for building robust and user-centric web applications from the ground up. My expertise spans the entire development lifecycle, from designing intuitive front-end interfaces with modern frameworks like React, Angualar, Vue.js to engineering powerful back-end systems with Node.js, PHP (Laravel), and PostgreSQL.
+I am a passionate Full Stack Developer with a knack for building robust and user-centric web applications from the ground up. My expertise spans the entire development lifecycle, from designing intuitive front-end interfaces with modern frameworks like React, Angular, Vue.js to engineering powerful back-end systems with Node.js, PHP (Laravel), and PostgreSQL.
 
 I thrive on transforming complex problems into efficient, scalable, and maintainable code. Whether I'm optimizing database queries, designing a RESTful API, or ensuring a pixel-perfect UI, my focus is always on delivering a seamless and engaging user experience that aligns with business goals.
 
